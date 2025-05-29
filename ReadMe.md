@@ -206,4 +206,4 @@ CityAirQ respects user privacy. Only anonymized location data is transmitted. Pe
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/CityAirQ.git
+git clone  https://github.com/Android-Course-UPB/project-denisapopescu1905.git
