@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972907462546",
+    "project_id": "blealerts-a8e6e",
+    "storage_bucket": "blealerts-a8e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972907462546:android:59f2fc28a4b5968d46cb4b",
+        "android_client_info": {
+          "package_name": "com.example.blescan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABl_K1djK76Uwg_Gx6tem-jJC0_qutB0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

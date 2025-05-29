@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CityAirQ</string>
+    <string name="service_uuid">4fafc201-1fb5-459e-8fcc-c5c9c331914b</string>
+    <string name="temp_uuid">beb5483e-36e1-4688-b7f5-ea07361b26a8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan_now">Scan now!</string>
+    <string name="mapbox_access_token" translatable="false">pk.eyJ1IjoiZGVuaXNhcHBzcSIsImEiOiJjbHU5eHVlcTAwY3g5MnFwaWl1Z2praWFjIn0.Flu-DPtPeREmA7DX9DSxHA</string>
+    <string name="title_activity_map">MapActivity</string>
+</resources>
